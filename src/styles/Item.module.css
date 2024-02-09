@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  align-content: space-between;
+  justify-content: space-between;
+  /* align-items: start; */
+  padding: 1rem;
+  background-color: var(--tertiary-color);
+  margin: 2px;
+}
